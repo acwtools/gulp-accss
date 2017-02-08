@@ -1,6 +1,6 @@
 {
   "name": "gulp-accss",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Gulp Wrapper for ACCSS - Minify CSS",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   "author": "Gandalf Sievers",
   "license": "MIT",
   "dependencies": {
-    "accssnode": "^0.1.1",
+    "accssnode": "^0.2.0",
     "gulp-util": "^3.0.6"
   },
   "repository": {
